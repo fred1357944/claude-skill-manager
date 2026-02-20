@@ -1,0 +1,9 @@
+{
+	"id": "claude-skill-manager",
+	"name": "Claude Skill Manager",
+	"version": "0.1.0",
+	"minAppVersion": "1.0.0",
+	"description": "Manage Claude Code slash commands inside Obsidian with search, tags, and Git sync.",
+	"author": "Fred Lai",
+	"isDesktopOnly": true
+}
